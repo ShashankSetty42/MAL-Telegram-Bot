@@ -11,10 +11,7 @@ There are four python files included in this repo:
 
 ## Usage
 
-1. Make sure you have all the dependencies
-..* ```beautifulsoup4```
-..* ```lxml```
-..* ```requests```
+1. Make sure you have all the dependencies ```beautifulsoup4```, ```lxml``` & ```requests```
 2. Change the token in ```config.cfg```
 3. Run ```server.py```
 ------
