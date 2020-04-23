@@ -1,5 +1,5 @@
 # MyAnimeList Telegram Bot
-======
+
 
 There are four python files included in this repo:
 
