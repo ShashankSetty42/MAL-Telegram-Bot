@@ -17,5 +17,5 @@ There are four python files included in this repo:
 ------
 
 ## Screenshots
-------
+
 <img src="https://i.imgur.com/yFmLadx.png" height="450">  <img src="https://i.imgur.com/r0wtwJ1.png" height="450">  <img src="https://i.imgur.com/9zhOve8.png" height="450">
