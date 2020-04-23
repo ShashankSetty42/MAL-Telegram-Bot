@@ -11,7 +11,7 @@ There are four python files included in this repo:
 
 
 ## Usage
-------
+
 1. Make sure you have all the dependencies ```beautifulsoup4```, ```lxml``` & ```requests```
 2. Change the token in ```config.cfg```
 3. Run ```server.py```
@@ -19,5 +19,5 @@ There are four python files included in this repo:
 
 
 ## Screenshots
-------
+
 <img src="https://i.imgur.com/yFmLadx.png" height="450">  <img src="https://i.imgur.com/r0wtwJ1.png" height="450">  <img src="https://i.imgur.com/9zhOve8.png" height="450">
