@@ -4,7 +4,7 @@ This bot written in python will get the query i.e name of the anime from the use
 
 ## Files
 
-There are four python files included in this repo:
+There are four files included in this repo:
 
 * mal_scraper.py -> used for scraping info from MAL page of the anime
 * config.cfg -> file used to abstract your bot token
