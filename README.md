@@ -1,5 +1,8 @@
 # MyAnimeList Telegram Bot
 
+This bot written in python will get the query i.e name of the anime from the user, which then is sent over to the mal scraper script that rips data off myanimelist and sends it over to the bot as reply.
+
+## Files
 
 There are four python files included in this repo:
 
